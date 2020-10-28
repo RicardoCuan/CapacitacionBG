@@ -73,7 +73,7 @@ Este es un proyecto muy simple, solo consta de tres tablas.
 
 ### Diagrama Entidad Relación
 
-![Diagrama E-R](img/img2.png)
+![Diagrama E-R](img/img1.png)
 
 ## En código
 
